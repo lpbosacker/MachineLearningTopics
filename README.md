@@ -9,3 +9,8 @@ Professor: Dr. Manjeet Rege
 University of St. Thomas
 <br>
 St. Paul, MN
+
+## Files
+# Assign2.ipynb
+<br>
+This notebook loads the input data, creates training and test datasets.
